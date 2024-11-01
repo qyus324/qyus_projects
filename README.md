@@ -8,7 +8,7 @@ Jangan lupa untuk memberikan ⭐ pada repository ini, karena setiap ⭐ sangat b
 ### Link Proyek yang Sudah Dideploy
 | Platform  | URL                                    | Keterangan                                  |
 |-----------|----------------------------------------|---------------------------------------------|
-| Codepen   | [Akses Proyek di Codepen](https://codepen.io/Qyus-Sitha/full/xxvjvMN)  | Project dideploy menggunakan Codepen      |
+| Codepen   | [Akses Proyek di Codepen](https://codepen.io/Qyus-Sitha/full/xxvjvMN)  | My Note App Sederhana      |
 
 
 
