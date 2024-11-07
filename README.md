@@ -9,6 +9,8 @@ Jangan lupa untuk memberikan ⭐ pada repository ini, karena setiap ⭐ sangat b
 | Platform  | URL                                    | Keterangan                                  |
 |-----------|----------------------------------------|---------------------------------------------|
 | Codepen   | [Akses Proyek di Codepen](https://codepen.io/Qyus-Sitha/full/xxvjvMN)  | My Note App Sederhana      |
+| Codepen   | [Akses Proyek di Codepen](https://codepen.io/Qyus-Sitha/full/PoMyEXv)  | Simple Restaurant App      |
+
 
 
 
